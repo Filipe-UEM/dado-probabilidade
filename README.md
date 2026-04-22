@@ -115,13 +115,4 @@ O script `master.py`:
 
 ---
 
-## 📜 Licença
-
-MIT License
-
-Copyright (c) 2026 Filipe
-
-Permission is hereby granted, free of charge...
-
-
 
