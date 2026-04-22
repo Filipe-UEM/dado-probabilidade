@@ -123,6 +123,6 @@ Copyright (c) 2026 Filipe
 
 Permission is hereby granted, free of charge...
 
-```
+
 
 ```
